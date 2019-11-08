@@ -18,4 +18,4 @@ Mobile Views (Phone and tablet)
 4. Footer
 
 Instruction:
-Clone the repo and view index.htlm.
+Clone the repo and view index.html.
