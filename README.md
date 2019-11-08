@@ -17,3 +17,5 @@ Mobile Views (Phone and tablet)
 3. Navigation bar with six fixed width navigation sections
 4. Footer
 
+Instruction:
+Clone the repo and view index.htlm.
